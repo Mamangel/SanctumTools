@@ -100,11 +100,12 @@ When you notice a mood shift, immediately log:
 
 5. **`keira_questions.md`** - Strategic questions to ask AI advisors about your data
 6. **`ssdi_documentation_guide.md`** - How to use this data for disability claims
+7. **`pdf_export_guide.md`** - How to export your trackers to PDF for healthcare appointments
 
 ### Automation Helpers:
 
-7. **`morning_routine.md`** - Automated baseline capture
-8. **`evening_routine.md`** - Automated end-of-day logging
+8. **`morning_routine.md`** - Automated baseline capture
+9. **`evening_routine.md`** - Automated end-of-day logging
 
 ## Clinical Value
 
