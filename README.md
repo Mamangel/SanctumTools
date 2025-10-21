@@ -102,10 +102,14 @@ When you notice a mood shift, immediately log:
 6. **`ssdi_documentation_guide.md`** - How to use this data for disability claims
 7. **`pdf_export_guide.md`** - How to export your trackers to PDF for healthcare appointments
 
+### DBT Integration:
+
+8. **`dbt_diary_conversational_tracking.md`** - Alternative to traditional DBT diary cards for people with form anxiety
+
 ### Automation Helpers:
 
-8. **`morning_routine.md`** - Automated baseline capture
-9. **`evening_routine.md`** - Automated end-of-day logging
+9. **`morning_routine.md`** - Automated baseline capture
+10. **`evening_routine.md`** - Automated end-of-day logging
 
 ## Clinical Value
 
@@ -127,6 +131,7 @@ This level of tracking provides:
 - DBT skill application tracking
 - Crisis intervention effectiveness
 - Pattern recognition for prevention
+- Conversational DBT diary card alternative (for clients with form anxiety)
 
 **For You:**
 - Self-awareness of patterns
