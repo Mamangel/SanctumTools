@@ -198,7 +198,7 @@ Create a cron job (Linux/Mac) to export trackers daily:
 crontab -e
 
 # Add line to export at 11:59 PM daily
-59 23 * * * cd /path/to/SanctuaryTools && ./export_trackers.sh
+59 23 * * * cd /path/to/SanctumTools && ./export_trackers.sh
 ```
 
 **Automatic weekly summaries:**
@@ -206,7 +206,7 @@ crontab -e
 Export on Sundays at 8 PM for Monday therapy appointments:
 
 ```bash
-0 20 * * 0 cd /path/to/SanctuaryTools && ./export_trackers.sh
+0 20 * * 0 cd /path/to/SanctumTools && ./export_trackers.sh
 ```
 
 ---
