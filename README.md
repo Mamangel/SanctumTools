@@ -106,10 +106,14 @@ When you notice a mood shift, immediately log:
 
 8. **`dbt_diary_conversational_tracking.md`** - Alternative to traditional DBT diary cards for people with form anxiety
 
+### AI Assistant Integration:
+
+9. **`AI_ASSISTANT_SETUP_GUIDE.md`** - Complete guide to configuring AI assistants (Claude, ChatGPT, etc.) for automated tracking, DBT skills coaching, and pattern analysis
+
 ### Automation Helpers:
 
-9. **`morning_routine.md`** - Automated baseline capture
-10. **`evening_routine.md`** - Automated end-of-day logging
+10. **`morning_routine.md`** - Automated baseline capture
+11. **`evening_routine.md`** - Automated end-of-day logging
 
 ## Clinical Value
 
@@ -165,11 +169,12 @@ If you experience:
 
 ## Getting Started
 
-1. Download the templates
-2. Start with morning baseline tomorrow
-3. Log mood shifts as they happen (even if you can only capture 2-3 per day at first)
-4. Review at end of week
-5. Share with your treatment team
+1. Download the templates: `git clone https://github.com/Mamangel/SanctuaryTools.git`
+2. **[NEW]** Set up AI assistant automation using `AI_ASSISTANT_SETUP_GUIDE.md` (optional but highly recommended)
+3. Start with morning baseline tomorrow
+4. Log mood shifts as they happen (even if you can only capture 2-3 per day at first)
+5. Review at end of week
+6. Share with your treatment team
 
 ## Success Stories
 
