@@ -169,12 +169,20 @@ If you experience:
 
 ## Getting Started
 
-1. Download the templates: `git clone https://github.com/Mamangel/SanctuaryTools.git`
-2. **[NEW]** Set up AI assistant automation using `AI_ASSISTANT_SETUP_GUIDE.md` (optional but highly recommended)
-3. Start with morning baseline tomorrow
-4. Log mood shifts as they happen (even if you can only capture 2-3 per day at first)
-5. Review at end of week
-6. Share with your treatment team
+### Option 1: Use with AI Assistant (Recommended)
+
+1. Download: `git clone https://github.com/Mamangel/SanctumTools.git`
+2. Tell your AI: "Read AI_ASSISTANT_SETUP_GUIDE.md and set yourself up"
+3. Say "good morning" to your AI tomorrow
+4. Your AI will guide you through everything else
+
+### Option 2: Manual Tracking
+
+1. Download the templates
+2. Start with morning baseline tomorrow
+3. Log mood shifts as they happen
+4. Review at end of week
+5. Share with your treatment team
 
 ## Success Stories
 
