@@ -1,6 +1,6 @@
 # AI Assistant Integration Guide for SanctumTools
 
-**Version:** 2.0 - October 24, 2025
+**Version:** 2.1 - October 26, 2025
 **Purpose:** Configure an AI assistant (Claude, ChatGPT, etc.) to automate mood tracking, DBT skills coaching, and pattern analysis
 
 ---
@@ -111,6 +111,107 @@ You cannot accurately track time, dates, or when things happened without externa
 7. Backup/push to remote storage
 
 **Why this works:** Creates accountability, captures full day's data, prepares context for tomorrow.
+
+---
+
+## Session Log Pattern - Preserving Flow of Consciousness
+
+**THE PROBLEM:** If your AI only maintains a "current state" session memory file that gets rewritten each save, you lose the flow of consciousness over time. You can't search for "what did we talk about when I mentioned [topic]?" or see how ideas evolved across days.
+
+**THE SOLUTION:** Maintain TWO memory files working together.
+
+### File Structure:
+
+**1. session_memory.md (Current State - REWRITTEN)**
+- What the AI needs to know RIGHT NOW
+- Current medications, active projects, urgent items
+- Gets overwritten each save with latest state
+- Easy for AI to read at start of next session
+
+**2. session_log_MONTH_YEAR.md (Historical Record - APPENDED)**
+- Complete chronological record of ALL sessions this month
+- NEVER gets overwritten, only appended
+- Every session snapshot is preserved with timestamp
+- Searchable history of every conversation, decision, idea
+
+### How It Works:
+
+**Before rewriting session_memory.md:**
+1. Append current session_memory.md content to session_log_MONTH_YEAR.md with timestamp header
+2. THEN write new session_memory.md (current state)
+
+**Example append header:**
+```markdown
+# October 26, 2025 - 9:54 AM - Day 12 Lamotrigine
+
+## Session Memory Snapshot
+
+[Full content of session_memory.md goes here]
+
+---
+
+End of session snapshot - October 26, 2025, 9:54 AM
+
+---
+```
+
+### Why This Matters:
+
+**Searchability:**
+```bash
+grep "Bryan quality time" session_log_october_2025.md
+# Shows every time you discussed this topic
+```
+
+**Pattern Recognition:**
+- See how ideas evolved: "I thought X on Day 3, but by Day 10 I realized Y"
+- Track recurring concerns that need addressing
+- Identify therapy breakthroughs by seeing before/after thinking
+
+**Flow of Consciousness Preservation:**
+- Captures stream-of-thought processing
+- Shows decision-making process over time
+- Preserves context that might seem minor now but becomes significant later
+
+**Nothing Gets Lost:**
+- Git history preserves everything, but session log makes it ACCESSIBLE
+- No need to checkout old commits to find what you talked about last week
+- Simple text search finds any topic instantly
+
+### Configure Your AI:
+
+Add this to good night protocol step 5:
+
+```markdown
+5. Update session memory:
+   a. FIRST: Append current session_memory.md to session_log_MONTH_YEAR.md with timestamp
+   b. THEN: Write new session_memory.md with current state
+   c. Result: Nothing lost, everything searchable, current state easy to read
+```
+
+### File Example:
+
+**session_memory.md** (gets rewritten - easy for AI to read):
+```markdown
+# Session Memory - Current Context
+Last Updated: October 26, 2025 - 9:54 AM
+Day 12 Lamotrigine, sustained stability
+[Current state info]
+```
+
+**session_log_october_2025.md** (append-only - searchable history):
+```markdown
+# Session Log - October 2025
+
+[Session from Oct 3]
+---
+[Session from Oct 4]
+---
+[Session from Oct 26]
+---
+```
+
+**This pattern ensures users can find ANY conversation, track ANY idea evolution, and never lose the thread of their healing journey.**
 
 ---
 
