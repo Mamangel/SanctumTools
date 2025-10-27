@@ -89,12 +89,16 @@ When you notice a mood shift, immediately log:
 
 ## The Files in This System
 
+### Getting Started:
+
+1. **`user_intake_form.md`** - Critical information for AI assistants, healthcare providers, and emergency contacts (fill out gradually - no pressure!)
+
 ### Core Tracking Templates:
 
-1. **`mood_shift_template.md`** - Quick-log format for real-time tracking
-2. **`rapid_cycling_tracker_template.md`** - Daily comprehensive timeline
-3. **`episode_tracker_template.md`** - Major episodes and crisis events
-4. **`daily_summary_template.md`** - End-of-day synthesis
+2. **`mood_shift_template.md`** - Quick-log format for real-time tracking
+3. **`rapid_cycling_tracker_template.md`** - Daily comprehensive timeline
+4. **`episode_tracker_template.md`** - Major episodes and crisis events
+5. **`daily_summary_template.md`** - End-of-day synthesis
 
 ### Analysis Tools:
 

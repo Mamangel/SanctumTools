@@ -36,6 +36,28 @@ Don't just track crises—learn from them. When situations arise, the AI teaches
 
 ---
 
+## Step 0: Complete Your User Intake Form
+
+**BEFORE setting up AI protocols, fill out `user_intake_form.md`**
+
+**Minimum information needed:**
+- Your diagnosis (e.g., Bipolar I, Ultra-rapid cycling)
+- Current medications (names, dosages, frequencies)
+- Your psychiatrist's information (name, phone, next appointment)
+- At least one emergency contact
+
+**Why this matters:**
+- Your AI assistant needs this context to provide appropriate support
+- Emergency contacts can access this information if needed
+- Healthcare providers can review your complete profile with tracking data
+- You can fill it out gradually—no pressure to complete everything at once
+
+**Location:** `user_intake_form.md` in your SanctumTools directory
+
+**Format:** Available as both markdown (.md) and PDF (.pdf) for easy printing/sharing
+
+---
+
 ## Time Awareness Protocol
 
 **THE PROBLEM:** AI assistants cannot accurately track time, dates, or when things happened without external verification. They will guess, approximate, and be wrong.
