@@ -36,25 +36,37 @@ Don't just track crises—learn from them. When situations arise, the AI teaches
 
 ---
 
-## Step 0: Complete Your User Intake Form
+## Step 0: First Conversation - Building Your Profile
 
-**BEFORE setting up AI protocols, fill out `user_intake_form.md`**
+**After setting up your AI assistant with the protocols below, your first conversation should gather basic information.**
 
-**Minimum information needed:**
+**The AI should ask you conversationally:**
+- What's your diagnosis?
+- What medications are you currently taking?
+- Who's your psychiatrist? When's your next appointment?
+- Who should we contact in an emergency?
+
+**The AI captures this information in `user_intake_form.md`**
+
+**You don't fill out a form - the AI asks questions and logs your answers.**
+
+**Minimum to start tracking:**
 - Your diagnosis (e.g., Bipolar I, Ultra-rapid cycling)
 - Current medications (names, dosages, frequencies)
-- Your psychiatrist's information (name, phone, next appointment)
+- Your psychiatrist's information
 - At least one emergency contact
+
+**Everything else can be added gradually as you go.**
 
 **Why this matters:**
 - Your AI assistant needs this context to provide appropriate support
 - Emergency contacts can access this information if needed
 - Healthcare providers can review your complete profile with tracking data
-- You can fill it out gradually—no pressure to complete everything at once
+- The AI helps you fill it out - no pressure, no forms to complete alone
 
 **Location:** `user_intake_form.md` in your SanctumTools directory
 
-**Format:** Available as both markdown (.md) and PDF (.pdf) for easy printing/sharing
+**Format:** Available as both markdown (.md) and PDF (.pdf) for easy printing/sharing when complete
 
 ---
 
