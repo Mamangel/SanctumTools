@@ -742,6 +742,33 @@ A monthly membership service providing:
 
 **Compensation:** $0 Year 1 (sweat equity), $50k/year Year 2+
 
+**Credentialing (Optional but Recommended):**
+
+**Mental Health First Aid Certification:**
+- **What it is:** 8-hour training teaching how to recognize mental health crisis and refer appropriately
+- **Required?** NO - Founder can facilitate peer support without certification
+- **Beneficial?** YES - Adds credibility for grant applications and investor confidence
+- **Cost in NC:** **$0 (FREE - grant-funded)**
+- **Local Options:**
+  - **Kellin Foundation** (Greensboro/High Point) - FREE, in-person, 336-429-5600
+  - **NC Mental Health First Aid (UNC)** - FREE, virtual, 2hr pre-work + 4.5hr instruction
+  - **Trillium Health Resources** - FREE, multiple dates annually
+- **Timeline:** Can complete in 1 day (8 hours) or virtual over 2 sessions
+- **Validity:** 3 years
+
+**Certified Peer Support Specialist (CPSS) - Future:**
+- 40-80 hour training program
+- Cost: $500-1,500
+- NOT required for launch
+- Consider Year 2 for enhanced credibility or insurance reimbursement pathways
+
+**Legal Status of Peer Support:**
+- Peer support is NOT regulated like clinical care
+- NO license required to facilitate peer support groups
+- Founder's lived experience with ultra-rapid cycling IS the primary credential
+- Must maintain clear disclaimers: "NOT therapy, NOT medical advice"
+- Liability insurance required ($6,500/year - already budgeted)
+
 ---
 
 ### Technical Advisor: JC (Jon Claude)
