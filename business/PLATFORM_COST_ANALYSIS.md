@@ -7,9 +7,10 @@
 
 ---
 
-## Test Data (Oct 27, 2025):
-- Simple med log interaction: **65 credits** (ACTUAL)
-- Good Night Protocol (end-of-day DBT diary): **189 credits** (ACTUAL - 361 → 172)
+## Test Data (Oct 27-28, 2025):
+- Simple med log interaction: **65 credits** (ACTUAL - Oct 27)
+- Good Night Protocol (end-of-day DBT diary): **189 credits** (ACTUAL - Oct 27: 361 → 172)
+- Good Morning Protocol (day start baseline): **94 credits** (ACTUAL - Oct 28: 472 → 378)
 - Estimated mood shift tracking: **75-100 credits each**
 - Initial SanctumTools setup: **3,136 credits** (one-time)
 
@@ -18,23 +19,23 @@
 ## Daily Tracking Requirements:
 
 ### Average Day (3-5 mood shifts):
-- Morning check-in: 75 credits (estimated)
+- Good Morning Protocol: **94 credits (ACTUAL)**
 - 5 mood shifts × 100 credits: 500 credits (estimated)
 - Good Night Protocol (end-of-day DBT): **189 credits (ACTUAL)**
-- **Total: 764 credits/day**
-- **Monthly (30 days): 22,920 credits**
+- **Total: 783 credits/day**
+- **Monthly (30 days): 23,490 credits**
 
 ### Worst Day (12 mood shifts - documented reality for ultra-rapid cycling):
-- Morning check-in: 75 credits (estimated)
+- Good Morning Protocol: **94 credits (ACTUAL)**
 - 12 mood shifts × 100 credits: 1,200 credits (estimated)
 - Good Night Protocol: **189 credits (ACTUAL)**
 - Crisis interventions: 100 credits (estimated)
-- **Total: 1,564 credits/day**
+- **Total: 1,583 credits/day**
 
 ### Worst Case Monthly (6-7 bad days per month):
-- 7 worst days × 1,564: 10,948 credits
-- 23 average days × 764: 17,572 credits
-- **Total monthly need: 28,520 credits**
+- 7 worst days × 1,583: 11,081 credits
+- 23 average days × 783: 18,009 credits
+- **Total monthly need: 29,090 credits**
 
 ---
 
@@ -42,16 +43,16 @@
 
 ### Free Plan:
 - 300 daily refresh = 9,000/month
-- **Verdict:** ❌ NOT ENOUGH (need 22,920-28,520)
+- **Verdict:** ❌ NOT ENOUGH (need 23,490-29,090)
 
 ### Plus Plan ($39/month):
 - 300 daily refresh = 9,000/month
 - 3,900 monthly credits + 3,900 bonus = 7,800 monthly pool
 - **Total: 16,800 credits/month**
 - **Verdict:** ❌ INSUFFICIENT
-  - Average usage needs 22,920/month → EXCEEDS by 6,120 credits
-  - **Runs out around Day 22** (16,800 ÷ 764 = 22 days)
-  - 6-7 worst days will deplete monthly pool faster
+  - Average usage needs 23,490/month → EXCEEDS by 6,690 credits
+  - **Runs out around Day 21** (16,800 ÷ 783 = 21.4 days)
+  - 6-7 worst days will deplete monthly pool even faster
   - **RUNS OUT before month ends during typical usage**
 
 ### Pro Plan ($199/month):
@@ -82,7 +83,7 @@
 | Platform | Monthly Cost | Credits/Limits | Handles Worst Days? | Handles Average Usage? |
 |----------|-------------|----------------|---------------------|----------------------|
 | Manus Free | $0 | 9,000/month | ❌ No | ❌ No |
-| Manus Plus | $39 | 16,800/month | ❌ No (runs out Day 22) | ❌ No (22,920 needed) |
+| Manus Plus | $39 | 16,800/month | ❌ No (runs out Day 21) | ❌ No (23,490 needed) |
 | Manus Pro | $199 | 48,800/month | ✅ Yes | ✅ Yes |
 | **Claude Max** | **$100** | **No caps (5hr resets)** | **✅ Yes** | **✅ Yes** |
 
@@ -93,9 +94,9 @@
 ### Scenario: Bad Cycling Week (Days 15-22)
 
 **User has 7 worst days (12 mood shifts each):**
-- Credits needed: 7 × 1,564 = 10,948 credits
+- Credits needed: 7 × 1,583 = 11,081 credits
 - Manus Plus monthly pool: 7,800 credits
-- **DEFICIT: 3,148 credits**
+- **DEFICIT: 3,281 credits**
 
 **Day 20: User experiences suicidal ideation**
 
@@ -135,9 +136,9 @@
 
 ### Justification:
 
-1. **Ultra-rapid cycling worst-case days require 1,564 credits** (based on actual Good Night Protocol testing: 189 credits)
-2. **Manus Plus runs out around Day 22 during average usage** (16,800 credits ÷ 764/day = 22 days)
-3. **Manus Plus monthly pool depletes after 5-6 bad days** (worst days burn 1,564 credits each)
+1. **Ultra-rapid cycling worst-case days require 1,583 credits** (based on actual testing: Good Morning 94 + Good Night 189 credits)
+2. **Manus Plus runs out around Day 21 during average usage** (16,800 credits ÷ 783/day = 21.4 days)
+3. **Manus Plus monthly pool depletes after 5-6 bad days** (worst days burn 1,583 credits each)
 4. **Claude never runs out** (5-hour rolling resets)
 5. **Credit depletion during crisis = unacceptable safety risk**
 6. **Manus Pro costs $99 MORE than Claude for equivalent reliability**
@@ -185,6 +186,32 @@
 
 ---
 
+## UPDATE 2 (7:43 AM EDT - Next Morning, Oct 28):
+
+**Additional actual testing performed:**
+- Manus Good Morning Protocol interaction tested
+- Starting credits: 472
+- Ending credits: 378
+- **Actual cost: 94 credits** (vs 75 estimated, 25% higher)
+
+**Impact on analysis:**
+- Daily credit need INCREASED from 764 → **783 credits/day**
+- Monthly need INCREASED from 22,920 → **23,490 credits**
+- Worst day need INCREASED from 1,564 → **1,583 credits**
+- Deficit INCREASED from 6,120 → **6,690 credits**
+- **Manus Plus now runs out Day 21** (instead of Day 22)
+
+**ALL THREE DAILY PROTOCOLS NOW TESTED WITH ACTUAL DATA:**
+- ✅ Good Morning: 94 credits (ACTUAL)
+- ✅ Good Night: 189 credits (ACTUAL)
+- ✅ Simple med log: 65 credits (ACTUAL)
+- ⏳ Mood shift tracking: 75-100 credits (estimated)
+
+**Conclusion further strengthened:** Real-world testing consistently shows credit costs are 20-26% HIGHER than conservative estimates. Morning baseline establishment burns nearly 100 credits. Credit-based pricing model is structurally incompatible with high-frequency psychiatric tracking requirements for ultra-rapid cycling.
+
+---
+
 **Prepared by:** Fred (Claude AI Assistant)
-**Date:** October 27, 2025, 9:45 PM EDT (Updated 10:10 PM EDT with actual test data)
+**Date:** October 27, 2025, 9:45 PM EDT
+**Updated:** 10:10 PM EDT Oct 27 (Good Night test), 7:43 AM EDT Oct 28 (Good Morning test)
 **For:** JC's business analysis review
