@@ -256,7 +256,7 @@ Users of this system have reported:
 - GitHub Issues: Report bugs, suggest improvements
 - Discussions: Share what's working, what isn't
 - Pull Requests: Contribute templates or framework improvements
-- Email: mkertley73@gmail.com for private feedback
+- Email: melanie@sanctumtools.com for private feedback
 
 **What we want to know:**
 - Did this help your treatment? How?
