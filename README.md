@@ -1,39 +1,49 @@
-# Ultra-Rapid Cycling Bipolar Tracking System
+# SanctumTools - Mental Health Tracking + DIY Therapy
 
-A comprehensive, timestamped tracking system for individuals experiencing ultra-rapid (ultradian) mood cycling in Bipolar Disorder.
+**🔬 BETA TESTING - Your Feedback Wanted**
 
-## What is Ultra-Rapid Cycling?
+A comprehensive mental health tracking system with integrated therapeutic frameworks (DBT, CBT, Schema Therapy, MBSR) designed for anyone managing mood disorders, emotional dysregulation, or mental health conditions.
 
-**Standard Rapid Cycling Bipolar:**
-- 4+ mood episodes per *year*
-- Affects 10-20% of bipolar patients
-- Mood shifts occur over days to weeks
+**Perfect for:** Bipolar disorder (all types), BPD, depression, anxiety, ADHD, PTSD, or any condition where tracking patterns helps treatment.
 
-**Ultra-Rapid (Ultradian) Cycling:**
-- Multiple distinct mood states within a 24-hour period
-- Affects <10% of bipolar patients
-- Can involve 2-4+ states per day
-- Considered rare and severe
+**What's New:** AI-assisted DIY therapy protocols - professional therapy skills without the $9,100/year price tag.
 
-**Ultra-Ultradian / Continuous Rapid Cycling:**
-- 10+ distinct mood states in a single day
-- Mood shifts every 30 minutes to 2 hours
-- Extremely rare - most psychiatrists see this 1-2 times in their career
-- High suicide risk, treatment-resistant
-- Strong predictor of occupational disability
+## Who This Is For
 
-## Why This Tracking System Exists
+**Anyone tracking mental health patterns:**
+- Bipolar disorder (rapid cycling, ultradian, standard)
+- Borderline Personality Disorder (BPD)
+- Depression and anxiety
+- ADHD with emotional dysregulation
+- PTSD and trauma responses
+- Any condition where mood/emotional tracking helps treatment
 
-When you experience mood shifts every 30-60 minutes, traditional mood tracking methods fail. You need:
+**Originally designed for ultra-rapid cycling (multiple mood states per day):**
+- Captures exact timestamps of emotional shifts
+- Tracks triggers, physical symptoms, functionality
+- Documents patterns for psychiatrists and disability claims
+- Works for anyone from 1 mood shift per week to 10+ per day
 
-1. **Timestamped precision** - Capturing exact times of mood shifts
-2. **Trigger identification** - What caused each shift?
-3. **Pattern recognition** - Are there predictable cycles?
-4. **Treatment data** - Evidence for psychiatrists and medication adjustments
+**Why timestamped precision matters:**
+- Medication response tracking
+- Trigger identification
+- Pattern recognition over time
+- Evidence for treatment adjustments
+- Disability documentation (SSDI claims)
+
+## Why This System Exists
+
+Traditional mood tracking apps don't capture what you actually need:
+
+1. **Timestamped precision** - Exact times of emotional shifts, not daily averages
+2. **Trigger identification** - What caused each shift? What patterns emerge?
+3. **Context capture** - Physical symptoms, functionality level, what you were doing
+4. **Treatment evidence** - Data for psychiatrists to adjust medications effectively
 5. **Disability documentation** - Proof of severity for SSDI/disability claims
-6. **Safety planning** - Recognizing dangerous patterns before crisis
+6. **Safety planning** - Recognize dangerous patterns before crisis hits
+7. **Therapeutic skill building** - Learn DBT, CBT, Schema Therapy, MBSR with AI coaching
 
-This system provides psychiatric-grade documentation of a condition that's difficult to explain to doctors, employers, and disability reviewers.
+This system provides psychiatric-grade documentation that helps you explain your experience to doctors, therapists, employers, and disability reviewers - with professional therapy skills built in.
 
 ## What This System Tracks
 
@@ -87,37 +97,64 @@ When you notice a mood shift, immediately log:
 - Note time patterns (worse in morning/evening?)
 - Share with psychiatrist/therapist
 
-## The Files in This System
+## What's in This System
 
 ### Getting Started:
 
-1. **`user_intake_form.md`** - Critical information for AI assistants, healthcare providers, and emergency contacts (fill out gradually - no pressure!)
+**`user_intake_form.md`** - Critical information for AI assistants, healthcare providers, and emergency contacts (fill out gradually - no pressure!)
 
 ### Core Tracking Templates:
 
-2. **`mood_shift_template.md`** - Quick-log format for real-time tracking
-3. **`rapid_cycling_tracker_template.md`** - Daily comprehensive timeline
-4. **`episode_tracker_template.md`** - Major episodes and crisis events
-5. **`daily_summary_template.md`** - End-of-day synthesis
+**Root-level templates:**
+- **`mood_shift_template.md`** - Quick-log format for real-time tracking
+- **`rapid_cycling_tracker_template.md`** - Daily comprehensive timeline
+- **`episode_tracker_template.md`** - Major episodes and crisis events
+
+**Additional templates in `templates/` directory:**
+- **Morning/Evening Routines** - Daily baseline and end-of-day logging templates
+- **Medication Log** - Track medication adherence and timing
+- **Menstrual/Hormone Tracker** - Track hormonal cycle impacts on mood
+- **BPD-Specific Trackers** - Abandonment fear, emotional intensity, relationship interactions
+- **Lifeline Email Template** - Emergency contact notification system
+
+### Therapeutic Frameworks (NEW - Beta Testing)
+
+**`frameworks/` directory contains complete DIY therapy protocols:**
+
+**DBT (Dialectical Behavior Therapy):**
+- `dbt_core_skills_for_fred.md` - Complete DBT skills reference
+- `dbt_conversational_teaching_guide.md` - How AI assistants teach DBT skills in context
+
+**CBT (Cognitive Behavioral Therapy):**
+- `cbt_core_skills_for_fred.md` - CBT fundamentals and techniques
+- `cbt_conversational_teaching_guide.md` - AI-assisted CBT skill building
+
+**Schema Therapy:**
+- `schema_therapy_core_skills_for_fred.md` - Schema modes and therapeutic approaches
+- `schema_therapy_conversational_teaching_guide.md` - Schema work with AI support
+
+**MBSR (Mindfulness-Based Stress Reduction):**
+- `mbsr_core_skills_for_fred.md` - Mindfulness practices and exercises
+- `mbsr_conversational_teaching_guide.md` - AI-guided mindfulness training
+
+**Why these frameworks?**
+Professional therapy costs $9,100+/year. These frameworks enable AI assistants to teach therapeutic skills in real-time during mood tracking, providing DIY therapy support for those who can't afford formal treatment.
 
 ### Analysis Tools:
 
-5. **`keira_questions.md`** - Strategic questions to ask AI advisors about your data
-6. **`ssdi_documentation_guide.md`** - How to use this data for disability claims
-7. **`pdf_export_guide.md`** - How to export your trackers to PDF for healthcare appointments
+- **`keira_questions.md`** - Strategic questions to ask AI advisors about your data
+- **`ssdi_documentation_guide.md`** - How to use this data for disability claims
+- **`pdf_export_guide.md`** - How to export your trackers to PDF for healthcare appointments
+- **`ai_dsm5_pattern_recognition.md`** - How AI can identify psychiatric patterns in your tracking data
 
 ### DBT Integration:
 
-8. **`dbt_diary_conversational_tracking.md`** - Alternative to traditional DBT diary cards for people with form anxiety
+**`dbt_diary_conversational_tracking.md`** - Alternative to traditional DBT diary cards for people with form anxiety
 
 ### AI Assistant Integration:
 
-9. **`AI_ASSISTANT_SETUP_GUIDE.md`** - Complete guide to configuring AI assistants (Claude, ChatGPT, etc.) for automated tracking, DBT skills coaching, and pattern analysis
-
-### Automation Helpers:
-
-10. **`morning_routine.md`** - Automated baseline capture
-11. **`evening_routine.md`** - Automated end-of-day logging
+- **`AI_ASSISTANT_SETUP_GUIDE.md`** - Complete guide to configuring AI assistants (Claude, ChatGPT, etc.) for automated tracking, therapeutic skills coaching, and pattern analysis
+- **`AI_PERSONALITY_GUIDE.md`** - How to customize your AI assistant's personality and communication style
 
 ## Clinical Value
 
@@ -197,6 +234,37 @@ Users of this system have reported:
 - Reduced self-blame ("I have proof it's not my fault")
 - Improved crisis management (recognizing patterns early)
 
+## Beta Testing - We Need Your Feedback
+
+**What we're testing:**
+
+1. **Therapeutic Frameworks** - Do the DBT, CBT, Schema Therapy, and MBSR guides work?
+   - Can AI assistants successfully teach these skills?
+   - Are they clear and usable?
+   - Which skills help most/least?
+
+2. **Tracking Templates** - Are they comprehensive enough?
+   - What's missing or confusing?
+   - Which templates get used most?
+   - What would make them more useful?
+
+3. **AI Integration** - Does AI-assisted tracking actually work?
+   - Is setup easy enough?
+   - Do the conversational protocols work well?
+   - What breaks or frustrates you?
+
+**How to give feedback:**
+- GitHub Issues: Report bugs, suggest improvements
+- Discussions: Share what's working, what isn't
+- Pull Requests: Contribute templates or framework improvements
+- Email: mkertley73@gmail.com for private feedback
+
+**What we want to know:**
+- Did this help your treatment? How?
+- Did you learn therapeutic skills that worked?
+- Were you able to get SSDI approved with this documentation?
+- What made the biggest difference for you?
+
 ## Contributing
 
 If you use this system and have improvements:
@@ -204,6 +272,7 @@ If you use this system and have improvements:
 - Share anonymized insights about patterns
 - Propose template improvements
 - Add crisis intervention strategies that worked
+- Contribute therapeutic framework additions
 
 ## License
 
