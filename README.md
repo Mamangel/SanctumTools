@@ -142,10 +142,9 @@ Professional therapy costs $9,100+/year. These frameworks enable AI assistants t
 
 ### Analysis Tools:
 
-- **`keira_questions.md`** - Strategic questions to ask AI advisors about your data
 - **`ssdi_documentation_guide.md`** - How to use this data for disability claims
 - **`pdf_export_guide.md`** - How to export your trackers to PDF for healthcare appointments
-- **`ai_dsm5_pattern_recognition.md`** - How AI can identify psychiatric patterns in your tracking data
+- **`ai_dsm5_pattern_recognition.md`** - How your AI assistant can identify psychiatric patterns in your tracking data
 
 ### DBT Integration:
 
@@ -282,7 +281,7 @@ This tracking system is provided free for personal use. Share freely with others
 
 Developed through real-world experience with ultra-ultradian rapid cycling and collaboration between:
 - Someone living with the condition
-- AI assistants (Claude/Fred for tracking, Gemini/Keira for strategic analysis)
+- AI assistants (Claude, ChatGPT, Gemini)
 - Mental health professionals
 
 ---
