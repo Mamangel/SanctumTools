@@ -122,35 +122,48 @@ Users can configure the AI's communication style (tone, pacing, detail level) to
 
 ## Step 0: First Conversation - Building Your Profile
 
-**After setting up your AI assistant with the protocols below, your first conversation should gather basic information.**
+**After setting up your AI assistant with the protocols below, your first conversation establishes your baseline.**
+
+### The 5 Essential Questions (Day 1):
 
 **The AI should ask you conversationally:**
-- What's your diagnosis?
-- What medications are you currently taking?
-- Who's your psychiatrist? When's your next appointment?
-- Who should we contact in an emergency?
+1. What's your name? (Or what should I call you?)
+2. What do you want to name me? (Your AI companion name)
+3. What's your diagnosis?
+4. What medications are you currently taking?
+5. What's your typical sleep schedule? (Bedtime, wake time)
 
-**The AI captures this information in `user_intake_form.md`**
+**That's it. 2-3 minutes. You're ready to start tracking.**
 
-**You don't fill out a form - the AI asks questions and logs your answers.**
+### Everything Else Learned Over Time:
 
-**Minimum to start tracking:**
-- Your diagnosis (e.g., Bipolar I, Ultra-rapid cycling)
-- Current medications (names, dosages, frequencies)
-- Your psychiatrist's information
-- At least one emergency contact
+**The AI doesn't interrogate you with 176 questions up front.**
 
-**Everything else can be added gradually as you go.**
+Instead, it learns about you gradually through natural conversation using a **tiered contextual learning system:**
+
+- **Tier 2 (First 3 days):** Emergency contacts, psychiatrist info, medication safety
+- **Tier 3 (First 2 weeks):** Triggers, therapy details, support network
+- **Tier 4 (First month):** Routines, insurance, detailed medical history
+- **Tier 5 (Optional):** Context-dependent information asked only when relevant
+
+**How it works:**
+- You mention sleep problems → AI asks: "Is insomnia regular for you?"
+- You mention crisis → AI asks: "Who should I contact if you need support?"
+- You mention therapy → AI asks: "What's your therapist's name?"
+
+**The AI has a knowledge database of what it needs to learn. But it learns by building a relationship with you, not conducting an intake interview.**
 
 **Why this matters:**
-- Your AI assistant needs this context to provide appropriate support
-- Emergency contacts can access this information if needed
-- Healthcare providers can review your complete profile with tracking data
-- The AI helps you fill it out - no pressure, no forms to complete alone
+- No form anxiety - you're having a conversation, not filling out paperwork
+- Information is gathered when contextually relevant
+- Your AI assistant provides appropriate support from Day 1
+- Emergency contacts can access full profile if needed
+- Healthcare providers can review complete documentation
 
-**Location:** `user_intake_form.md` in your SanctumTools directory
-
-**Format:** Available as both markdown (.md) and PDF (.pdf) for easy printing/sharing when complete
+**Technical details:**
+- `user_intake_form.md` = AI's knowledge database reference (what to learn, not what you fill out)
+- AI stores learned information in `my_profile.md` (your personal knowledge database)
+- See complete tiered system in Product Vision docs (for beta users)
 
 ---
 

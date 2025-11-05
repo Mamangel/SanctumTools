@@ -101,7 +101,7 @@ When you notice a mood shift, immediately log:
 
 ### Getting Started:
 
-**`user_intake_form.md`** - Critical information for AI assistants, healthcare providers, and emergency contacts (fill out gradually - no pressure!)
+**`user_intake_form.md`** - AI's knowledge database guide—your AI learns about you conversationally, no forms to fill out
 
 ### Core Tracking Templates:
 
