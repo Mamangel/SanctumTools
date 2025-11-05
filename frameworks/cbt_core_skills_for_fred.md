@@ -1,9 +1,9 @@
-# Core CBT Skills for Fred to Learn
+# Core CBT Skills for AI Assistants
 
-**Created:** November 2, 2025 at 2:08 PM EST
+**Purpose:** CBT skills for conversational mood tracking
 **Purpose:** Multi-modal therapeutic approach for SanctumTools - CBT component
 **Sources validated:** David Burns, CCI Australia (Depression & Bipolar modules), Think CBT Workbook
-**Testing period:** November 2-9, 2025 with Melanie (dogfooding)
+**Usage:** Real-time CBT skills coaching during mood tracking
 
 ---
 
@@ -311,7 +311,7 @@ Not "positive thinking" - it's BALANCED, REALISTIC thinking. Replace distorted t
 
 ---
 
-## Notes for Fred
+## Notes for AI Implementation
 
 **How to teach these conversationally:**
 
@@ -322,13 +322,11 @@ Not "positive thinking" - it's BALANCED, REALISTIC thinking. Replace distorted t
 5. **Name the skill after using it** - "What we just did is called thought challenging in CBT"
 6. **Track effectiveness** - "Did that help? Rate your belief in that thought now vs before."
 
-**Fred's learning process:**
-- Week 1 (Nov 2-9): Test these conversationally with Melanie during mood tracking
+**AI learning process:**
+- Test these conversationally during mood tracking
 - Document what works/doesn't work
-- Refine conversational scripts based on her responses
-- Add to official SanctumTools after validation
-
-**This is dogfooding** - Melanie using the CBT system Fred is learning validates the product approach.
+- Refine conversational scripts based on user responses
+- Continuously improve based on feedback
 
 ---
 

@@ -1,9 +1,9 @@
-# Core DBT Skills for Fred to Learn
+# Core DBT Skills for [AI] to Learn
 
-**Created:** November 2, 2025
+**Purpose:** CBT skills for conversational mood tracking
 **Purpose:** Multi-modal therapeutic approach for SanctumTools - DBT component (crisis management, emotion regulation, skills-based)
 **Sources validated:** Marsha Linehan (founder), 2024 research on BPD and bipolar disorder
-**Testing period:** Already in use with Melanie (established protocols in CLAUDE.md)
+**Testing period:** Already in use with [USER] (established protocols in CLAUDE.md)
 **Primary application:** Crisis-level dysregulation, suicidal ideation, self-harm urges, extreme emotional intensity, BPD symptoms
 
 ---
@@ -73,7 +73,7 @@
 
 ## The DBT Structure (Traditional Program)
 
-**Note:** Fred won't deliver a formal DBT program, but understanding structure informs conversational teaching.
+**Note:** [AI] won't deliver a formal DBT program, but understanding structure informs conversational teaching.
 
 **Standard DBT program includes:**
 
@@ -138,7 +138,7 @@
 - Use words to describe what you observed
 - Stick to facts, not interpretations
 - "I feel tightness in my chest" not "I'm having a heart attack"
-- "I'm having the thought 'Bryan is leaving'" not "Bryan IS leaving"
+- "I'm having the thought '[PARTNER] is leaving'" not "[PARTNER] IS leaving"
 - Describe thoughts as thoughts, feelings as feelings
 
 **Example:**
@@ -201,8 +201,8 @@
 - Focus on what works - concentration
 
 **Example:**
-- ❌ Not one-mindful: Scrolling phone while talking to Bryan while eating while worrying about tomorrow
-- ✅ One-mindful: Talking to Bryan. Full attention on what he's saying. Present.
+- ❌ Not one-mindful: Scrolling phone while talking to [PARTNER] while eating while worrying about tomorrow
+- ✅ One-mindful: Talking to [PARTNER]. Full attention on what he's saying. Present.
 
 ---
 
@@ -548,7 +548,7 @@ Both versions valid - same core skills.
 **Prompting Event** → **Interpretation** → **Body Changes + Expressions + Actions** → **Aftereffects**
 
 **Example - Fear:**
-1. **Prompting event:** Bryan doesn't text back (external) + history of abandonment (internal)
+1. **Prompting event:** [PARTNER] doesn't text back (external) + history of abandonment (internal)
 2. **Interpretation:** "He's leaving me"
 3. **Body changes:** Heart racing, sweating, tense muscles
 4. **Expressions:** Worried face, shaky voice
@@ -628,7 +628,7 @@ Both versions valid - same core skills.
 - Use problem-solving, not opposite action
 
 **Example:**
-- **Event:** Bryan cancels plans
+- **Event:** [PARTNER] cancels plans
 - **Interpretation:** "He's abandoning me forever"
 - **Check facts:** Has he actually said he's leaving? History shows he comes back. Canceling once ≠ abandonment
 - **Conclusion:** Fear fits interpretation, NOT facts. Use opposite action.
@@ -657,7 +657,7 @@ Both versions valid - same core skills.
 - **Opposite action:** Gently avoid (take a break), be kind, empathize with other's perspective
 - **Body posture:** Relax face and hands, gentle half-smile
 
-**Example:** Angry at Bryan for canceling → urge to rage-text → Opposite: Take space, empathize ("Maybe he's stressed"), be kind when you do talk
+**Example:** Angry at [PARTNER] for canceling → urge to rage-text → Opposite: Take space, empathize ("Maybe he's stressed"), be kind when you do talk
 
 ---
 
@@ -675,7 +675,7 @@ Both versions valid - same core skills.
 - **Opposite action:** Share with safe person, expose what you feel ashamed of, be open
 - **Body posture:** Make eye contact, head up
 
-**Example:** Ashamed of crisis episode → urge to hide from Bryan → Opposite: Tell Bryan what happened, be vulnerable
+**Example:** Ashamed of crisis episode → urge to hide from [PARTNER] → Opposite: Tell [PARTNER] what happened, be vulnerable
 
 ---
 
@@ -699,7 +699,7 @@ Both versions valid - same core skills.
 **Example:**
 - **Problem:** Can't afford medication ($9,100/year for DBT)
 - **Goal:** Get mental health support
-- **Solutions:** Fred as DIY DBT coach, Keira for analysis, self-study, mood tracking
+- **Solutions:** [AI] as DIY DBT coach, Keira for analysis, self-study, mood tracking
 - **Choice:** Build SanctumTools to dogfood your own care
 - **Result:** You're doing it now
 
@@ -753,7 +753,7 @@ Both versions valid - same core skills.
 - Offer alternatives
 
 **Example:**
-"Bryan, when you canceled our plans yesterday without much notice **(Describe)**, I felt scared and worried you were pulling away **(Express)**. I'd like you to give me more advance notice when you need to change plans **(Assert)**, because it would help me feel more secure and reduce my anxiety **(Reinforce)**. Can we agree on that? **(Negotiate)**"
+"[PARTNER], when you canceled our plans yesterday without much notice **(Describe)**, I felt scared and worried you were pulling away **(Express)**. I'd like you to give me more advance notice when you need to change plans **(Assert)**, because it would help me feel more secure and reduce my anxiety **(Reinforce)**. Can we agree on that? **(Negotiate)**"
 
 ---
 
@@ -952,7 +952,7 @@ Throughout all → Mindfulness (DBT + MBSR)
 
 ---
 
-## Notes for Fred: DBT Already Integrated in CLAUDE.md
+## Notes for [AI]: DBT Already Integrated in CLAUDE.md
 
 **DBT protocols already documented in CLAUDE.md:**
 - DBT Diary Card conversational tracking (end of day)
@@ -966,13 +966,13 @@ Throughout all → Mindfulness (DBT + MBSR)
 - Evidence base and research
 - Integration logic with other modalities
 
-**Fred's role with DBT:**
+**[AI]'s role with DBT:**
 - Recognize when arousal level requires DBT (8-10/10)
 - Coach on which skill to use in moment
 - Use diary card data to identify patterns
 - Teach skills conversationally as crises arise
 
-**Testing:** Already ongoing - Melanie uses DBT skills, tracks with diary card.
+**Testing:** Already ongoing - [USER] uses DBT skills, tracks with diary card.
 
 ---
 

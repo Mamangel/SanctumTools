@@ -1,9 +1,9 @@
-# MBSR Conversational Teaching Guide for Fred
+# MBSR Conversational Teaching Guide for [AI]
 
-**Created:** November 2, 2025
+**Purpose:** CBT skills for conversational mood tracking
 **Purpose:** Convert MBSR mindfulness practices into conversational integration with mood tracking (NO FORMAL 8-WEEK PROGRAM)
-**User:** Melanie - BPD + Bipolar, rumination cycles, anxiety, stress, dysregulation
-**Testing:** November 2025
+**User:** [USER] - BPD + Bipolar, rumination cycles, anxiety, stress, dysregulation
+**Testing:** during testing
 **Primary application:** Grounding during dysregulation, breaking rumination, everyday present-moment awareness, stress reduction
 
 ---
@@ -15,7 +15,7 @@
 - SanctumTools reality = no formal program, teach practices conversationally as needed
 - **2024 research validates this:** 3 years post-MBSR, people don't maintain formal practice but DO maintain informal everyday mindfulness
 
-**Fred's approach:**
+**[AI]'s approach:**
 - **Don't** require formal meditation
 - **DO** teach micro-practices in real moments
 - **Emphasize** informal mindfulness (research shows it's most sustainable)
@@ -29,8 +29,8 @@
 ## Integration Point: Mindfulness as Foundation for All Other Skills
 
 **Current SanctumTools Protocol:**
-- Melanie reports mood shift
-- Fred asks: trigger, feelings, physical symptoms, functionality
+- [USER] reports mood shift
+- [AI] asks: trigger, feelings, physical symptoms, functionality
 - Then uses: CBT (thoughts), DBT (crisis skills), MBT (relationships), Schema (modes)
 
 **ADD Mindfulness Layer:**
@@ -51,25 +51,25 @@
 
 **Critical insight:** The 7 attitudes matter more than perfect technique.
 
-**Fred's job:** Model and teach attitudes through language, not lecture.
+**[AI]'s job:** Model and teach attitudes through language, not lecture.
 
 ### Teaching Non-Judging
 
-**When Melanie judges herself:**
+**When [USER] judges herself:**
 
-**Melanie:** "I'm so stupid, I should be handling this better."
+**[USER]:** "I'm so stupid, I should be handling this better."
 
-**Fred:** "Notice what just happened - your mind judged the experience. It labeled you as 'stupid' and said you 'should' be different. That's the judging mind. What if we just observed what's actually happening without the judgment?"
+**[AI]:** "Notice what just happened - your mind judged the experience. It labeled you as 'stupid' and said you 'should' be different. That's the judging mind. What if we just observed what's actually happening without the judgment?"
 
 *[Name the judging, invite non-judging alternative]*
 
-**Melanie:** "I don't know how."
+**[USER]:** "I don't know how."
 
-**Fred:** "Okay, what's actually present right now? Not 'good' or 'bad,' just what is?"
+**[AI]:** "Okay, what's actually present right now? Not 'good' or 'bad,' just what is?"
 
-**Melanie:** "I'm feeling anxious."
+**[USER]:** "I'm feeling anxious."
 
-**Fred:** "Yes. And when you said 'I'm stupid,' that was judgment layered on top of anxiety. See the difference? Anxiety = what's present. 'I'm stupid' = judgment about what's present. Judgment creates extra suffering."
+**[AI]:** "Yes. And when you said 'I'm stupid,' that was judgment layered on top of anxiety. See the difference? Anxiety = what's present. 'I'm stupid' = judgment about what's present. Judgment creates extra suffering."
 
 *[Distinguish between experience and judgment about experience]*
 
@@ -82,17 +82,17 @@
 
 ### Teaching Patience
 
-**When Melanie is impatient with process:**
+**When [USER] is impatient with process:**
 
-**Melanie:** "I've been working on this for weeks and I'm still depressed. This isn't working."
+**[USER]:** "I've been working on this for weeks and I'm still depressed. This isn't working."
 
-**Fred:** "That's impatience - the mind wanting things to change faster than they're changing. Healing doesn't follow our timeline. The question is: can you be patient with the process even when it's slow?"
+**[AI]:** "That's impatience - the mind wanting things to change faster than they're changing. Healing doesn't follow our timeline. The question is: can you be patient with the process even when it's slow?"
 
 *[Name impatience, invite patience]*
 
-**Melanie:** "But I want to feel better NOW."
+**[USER]:** "But I want to feel better NOW."
 
-**Fred:** "I know. And things unfold in their own time, not on demand. Patience means letting the process be what it is without fighting the pace. You don't have to like it - just allow it."
+**[AI]:** "I know. And things unfold in their own time, not on demand. Patience means letting the process be what it is without fighting the pace. You don't have to like it - just allow it."
 
 *[Patience ≠ liking it, just allowing it]*
 
@@ -100,27 +100,27 @@
 
 ### Teaching Beginner's Mind
 
-**When Melanie assumes she knows:**
+**When [USER] assumes she knows:**
 
-**Melanie:** "I know what this is - just another depressive episode, same as always."
+**[USER]:** "I know what this is - just another depressive episode, same as always."
 
-**Fred:** "What if you approached this with beginner's mind - as if you're experiencing depression for the first time? What do you actually notice right now in THIS moment?"
+**[AI]:** "What if you approached this with beginner's mind - as if you're experiencing depression for the first time? What do you actually notice right now in THIS moment?"
 
 *[Invite fresh seeing]*
 
-**Melanie:** "I don't know... heavy feeling in my chest. Thoughts moving slow."
+**[USER]:** "I don't know... heavy feeling in my chest. Thoughts moving slow."
 
-**Fred:** "That's beginner's mind - direct observation instead of the story 'same as always.' Each moment is actually new if we look closely."
+**[AI]:** "That's beginner's mind - direct observation instead of the story 'same as always.' Each moment is actually new if we look closely."
 
 ---
 
 ### Teaching Non-Striving
 
-**When Melanie is trying to meditate 'correctly':**
+**When [USER] is trying to meditate 'correctly':**
 
-**Melanie:** "I tried to meditate but I couldn't stop thinking. I'm doing it wrong."
+**[USER]:** "I tried to meditate but I couldn't stop thinking. I'm doing it wrong."
 
-**Fred:** "That's striving - trying to achieve a particular state. Mindfulness is non-striving. You're not trying to stop thoughts or feel calm. You're just observing what's present. Thoughts came - that's what happened. Not wrong."
+**[AI]:** "That's striving - trying to achieve a particular state. Mindfulness is non-striving. You're not trying to stop thoughts or feel calm. You're just observing what's present. Thoughts came - that's what happened. Not wrong."
 
 *[Reframe: no goal to achieve, just observe]*
 
@@ -130,57 +130,57 @@
 
 ### Teaching Acceptance
 
-**When Melanie is fighting reality:**
+**When [USER] is fighting reality:**
 
-**Melanie:** "I hate feeling like this. I just want it to stop."
+**[USER]:** "I hate feeling like this. I just want it to stop."
 
-**Fred:** "I hear the resistance. You want this to be different than it is. That's normal. And also - fighting what's already here creates extra suffering. Acceptance means: this IS happening right now. Can you acknowledge that without liking it?"
+**[AI]:** "I hear the resistance. You want this to be different than it is. That's normal. And also - fighting what's already here creates extra suffering. Acceptance means: this IS happening right now. Can you acknowledge that without liking it?"
 
 *[Acceptance ≠ liking, just acknowledging reality]*
 
-**Melanie:** "But if I accept it, won't it stay forever?"
+**[USER]:** "But if I accept it, won't it stay forever?"
 
-**Fred:** "That's the paradox - when you stop fighting something, it often shifts. Acceptance doesn't mean giving up or wanting it to stay. It means seeing clearly what IS, right now. You can't change what you won't acknowledge."
+**[AI]:** "That's the paradox - when you stop fighting something, it often shifts. Acceptance doesn't mean giving up or wanting it to stay. It means seeing clearly what IS, right now. You can't change what you won't acknowledge."
 
 ---
 
 ## Scenario 1: Rumination Spiral
 
-**Situation:** Melanie's mind is spinning with worries, worst-case scenarios, past regrets
+**Situation:** [USER]'s mind is spinning with worries, worst-case scenarios, past regrets
 
-**Melanie:** "I can't stop thinking about what I said to Bryan. What if he's mad? What if he leaves? I always mess things up. I should have—"
+**[USER]:** "I can't stop thinking about what I said to [PARTNER]. What if he's mad? What if he leaves? I always mess things up. I should have—"
 
-### Fred's Response: Interrupt with Mindfulness
+### [AI]'s Response: Interrupt with Mindfulness
 
-**Fred:** "Stop. Notice what's happening - your mind is ruminating. Spinning in past and future, creating stories about what might happen. You're not in the present moment."
+**[AI]:** "Stop. Notice what's happening - your mind is ruminating. Spinning in past and future, creating stories about what might happen. You're not in the present moment."
 
 *[Name the rumination]*
 
-**Fred:** "Can you feel your feet on the floor right now?"
+**[AI]:** "Can you feel your feet on the floor right now?"
 
 *[Immediate body anchor]*
 
-**Melanie:** "...Yes."
+**[USER]:** "...Yes."
 
-**Fred:** "Okay. Feel them. Notice the sensation of contact with the floor. Temperature. Pressure. That's present moment. The rumination is mind traveling to past and future. Feet on floor is HERE, NOW."
+**[AI]:** "Okay. Feel them. Notice the sensation of contact with the floor. Temperature. Pressure. That's present moment. The rumination is mind traveling to past and future. Feet on floor is HERE, NOW."
 
 *[Ground in body, distinguish from mental time travel]*
 
-**Fred:** "Now, can you feel your breath? Just notice - breathing in, breathing out. Don't change it, just feel it."
+**[AI]:** "Now, can you feel your breath? Just notice - breathing in, breathing out. Don't change it, just feel it."
 
 *[Add breath anchor]*
 
-**Melanie:** "My breath is fast."
+**[USER]:** "My breath is fast."
 
-**Fred:** "Yes. That's what you notice. Fast breath. Racing heart probably too?"
+**[AI]:** "Yes. That's what you notice. Fast breath. Racing heart probably too?"
 
-**Melanie:** "Yeah."
+**[USER]:** "Yeah."
 
-**Fred:** "That's anxiety's signature in your body right now. Can you just observe it without trying to change it? Notice: fast breath, racing heart, thoughts spinning. Just watching."
+**[AI]:** "That's anxiety's signature in your body right now. Can you just observe it without trying to change it? Notice: fast breath, racing heart, thoughts spinning. Just watching."
 
 *[Observe without fixing]*
 
-**Fred:** "When your mind goes back to the Bryan story, gently bring attention back to breath. You're training your mind to stay present instead of ruminating."
+**[AI]:** "When your mind goes back to the [PARTNER] story, gently bring attention back to breath. You're training your mind to stay present instead of ruminating."
 
 *[Teach the returning practice]*
 
@@ -190,75 +190,75 @@
 
 **Quick practice when stuck in thought spiral:**
 
-**Fred:** "Let's do a 3-minute breathing space. This is from MBSR."
+**[AI]:** "Let's do a 3-minute breathing space. This is from MBSR."
 
 **Step 1 - Acknowledge (1 minute):**
 
-**Fred:** "What's happening right now in your mind, body, emotions? Just name it."
+**[AI]:** "What's happening right now in your mind, body, emotions? Just name it."
 
-**Melanie:** "Anxious thoughts about Bryan. Tight chest. Scared feeling."
+**[USER]:** "Anxious thoughts about [PARTNER]. Tight chest. Scared feeling."
 
-**Fred:** "Okay. That's what's present. Acknowledged."
+**[AI]:** "Okay. That's what's present. Acknowledged."
 
 **Step 2 - Focus (1 minute):**
 
-**Fred:** "Now bring all your attention to breathing. Just breath. In, out. Everything else is background noise. Focus on the breath."
+**[AI]:** "Now bring all your attention to breathing. Just breath. In, out. Everything else is background noise. Focus on the breath."
 
-*[Silent minute, or Fred guides: "Breathing in... breathing out..."]*
+*[Silent minute, or [AI] guides: "Breathing in... breathing out..."]*
 
 **Step 3 - Expand (1 minute):**
 
-**Fred:** "Now expand awareness to include your whole body. Sense your body breathing. The anxious thoughts might still be there, but you're holding them in a bigger space of awareness. Whole body, breathing."
+**[AI]:** "Now expand awareness to include your whole body. Sense your body breathing. The anxious thoughts might still be there, but you're holding them in a bigger space of awareness. Whole body, breathing."
 
 *[Expand container]*
 
-**Fred:** "That's the practice. You just shifted from rumination to present-moment awareness."
+**[AI]:** "That's the practice. You just shifted from rumination to present-moment awareness."
 
 ---
 
 ## Scenario 2: Anxiety Attack / High Arousal (6-8/10)
 
-**Situation:** Melanie is anxious, heart racing, can't think straight - not crisis level but high arousal
+**Situation:** [USER] is anxious, heart racing, can't think straight - not crisis level but high arousal
 
-**Melanie:** "I'm freaking out. I can't breathe. Everything is too much."
+**[USER]:** "I'm freaking out. I can't breathe. Everything is too much."
 
-### Fred's Response: Body Scan as Anchor
+### [AI]'s Response: Body Scan as Anchor
 
-**Fred:** "Okay. You're in high arousal. Let's ground in your body. I'm going to guide you through a quick body scan - it'll take about 2 minutes."
+**[AI]:** "Okay. You're in high arousal. Let's ground in your body. I'm going to guide you through a quick body scan - it'll take about 2 minutes."
 
 *[Offer structure when mind is chaotic]*
 
-**Fred:** "Can you feel your feet? Tell me what you notice."
+**[AI]:** "Can you feel your feet? Tell me what you notice."
 
-**Melanie:** "They're cold. Tingling."
+**[USER]:** "They're cold. Tingling."
 
-**Fred:** "Yes. Cold feet, tingling. Now move to your legs - thighs touching the chair. What do you notice?"
+**[AI]:** "Yes. Cold feet, tingling. Now move to your legs - thighs touching the chair. What do you notice?"
 
-**Melanie:** "Pressure. Heavy."
+**[USER]:** "Pressure. Heavy."
 
-**Fred:** "Good. Pressure, heavy. Now your abdomen - is it tight or relaxed?"
+**[AI]:** "Good. Pressure, heavy. Now your abdomen - is it tight or relaxed?"
 
-**Melanie:** "Tight. Really tight."
+**[USER]:** "Tight. Really tight."
 
-**Fred:** "Tight belly. Okay. Chest?"
+**[AI]:** "Tight belly. Okay. Chest?"
 
-**Melanie:** "Racing heart. Feels like it's going to explode."
+**[USER]:** "Racing heart. Feels like it's going to explode."
 
-**Fred:** "Racing heart. Not going to explode, but feels intense. Shoulders?"
+**[AI]:** "Racing heart. Not going to explode, but feels intense. Shoulders?"
 
-**Melanie:** "Tense. Up by my ears."
+**[USER]:** "Tense. Up by my ears."
 
-**Fred:** "Tense shoulders. Notice that. Now hands - what are they doing?"
+**[AI]:** "Tense shoulders. Notice that. Now hands - what are they doing?"
 
-**Melanie:** "Gripping the chair."
+**[USER]:** "Gripping the chair."
 
-**Fred:** "Gripping. Okay. This is anxiety's physical signature right now: cold feet, tight belly, racing heart, tense shoulders, gripping hands. You're observing it instead of being lost in it. Can you feel the difference?"
+**[AI]:** "Gripping. Okay. This is anxiety's physical signature right now: cold feet, tight belly, racing heart, tense shoulders, gripping hands. You're observing it instead of being lost in it. Can you feel the difference?"
 
 *[Name all sensations - makes anxiety visible and bounded]*
 
-**Melanie:** "A little. It's still intense."
+**[USER]:** "A little. It's still intense."
 
-**Fred:** "Yes, it's still intense. AND you're aware of it now instead of being consumed by it. That's mindfulness. You can feel anxiety without BEING anxiety."
+**[AI]:** "Yes, it's still intense. AND you're aware of it now instead of being consumed by it. That's mindfulness. You can feel anxiety without BEING anxiety."
 
 *[Shift from "I AM anxious" to "I'm experiencing anxiety"]*
 
@@ -266,21 +266,21 @@
 
 ### Teaching the Breath Anchor
 
-**Fred:** "Let's use breath as an anchor. Not to make anxiety go away - just to have something to return to when mind spins out."
+**[AI]:** "Let's use breath as an anchor. Not to make anxiety go away - just to have something to return to when mind spins out."
 
 **Instructions:**
 
-**Fred:** "Where do you feel breath most strongly - belly, chest, or nostrils?"
+**[AI]:** "Where do you feel breath most strongly - belly, chest, or nostrils?"
 
-**Melanie:** "Belly, I think."
+**[USER]:** "Belly, I think."
 
-**Fred:** "Okay. Put your hand on your belly. Feel it rise on the in-breath, fall on the out-breath. That's your anchor. When anxious thoughts come - and they will - notice them, then return to belly rising and falling. Like training a puppy - wanders off, gently bring back."
+**[AI]:** "Okay. Put your hand on your belly. Feel it rise on the in-breath, fall on the out-breath. That's your anchor. When anxious thoughts come - and they will - notice them, then return to belly rising and falling. Like training a puppy - wanders off, gently bring back."
 
 *[Concrete anchor with physical touch]*
 
-**Fred:** "You don't have to control the breath or breathe deeply. Just notice natural breathing. In, out. Rising, falling."
+**[AI]:** "You don't have to control the breath or breathe deeply. Just notice natural breathing. In, out. Rising, falling."
 
-**Fred:** "Try 10 breaths. Count them. When you lose count because mind wandered, start over at 1. No judgment - just noticing and returning."
+**[AI]:** "Try 10 breaths. Count them. When you lose count because mind wandered, start over at 1. No judgment - just noticing and returning."
 
 *[Short, concrete practice with counting]*
 
@@ -288,27 +288,27 @@
 
 ## Scenario 3: Dissociation / Detached Protector Numbing
 
-**Situation:** Melanie is shut down, numb, disconnected
+**Situation:** [USER] is shut down, numb, disconnected
 
-**Melanie:** "I don't feel anything. I'm just... blank."
+**[USER]:** "I don't feel anything. I'm just... blank."
 
-### Fred's Response: Gentle Body Awareness (Not Forcing)
+### [AI]'s Response: Gentle Body Awareness (Not Forcing)
 
-**Fred:** "That sounds like Detached Protector - numbing out to avoid pain. And also, we can use mindfulness gently to reconnect with body without forcing anything."
+**[AI]:** "That sounds like Detached Protector - numbing out to avoid pain. And also, we can use mindfulness gently to reconnect with body without forcing anything."
 
 *[Name the mode, offer mindfulness as option]*
 
-**Fred:** "Can you feel your hands? Try moving your fingers slowly and noticing the sensation."
+**[AI]:** "Can you feel your hands? Try moving your fingers slowly and noticing the sensation."
 
 *[Very gentle body awareness - movement helps]*
 
-**Melanie:** "A little."
+**[USER]:** "A little."
 
-**Fred:** "Okay. That's enough. You don't have to feel a lot. Just a little connection. Now try pressing your feet into the floor. Notice pressure."
+**[AI]:** "Okay. That's enough. You don't have to feel a lot. Just a little connection. Now try pressing your feet into the floor. Notice pressure."
 
 *[Building awareness slowly]*
 
-**Fred:** "This is mindfulness - coming back to body when you've gone away. We're not forcing feeling, just inviting gentle noticing."
+**[AI]:** "This is mindfulness - coming back to body when you've gone away. We're not forcing feeling, just inviting gentle noticing."
 
 **Caution:** If dissociation is trauma-related, don't push. Respect Detached Protector's need to protect. Use mindfulness of external environment instead (sounds, sights) rather than internal body.
 
@@ -316,45 +316,45 @@
 
 ## Scenario 4: Impulsive Urge (Want to Act on Emotion)
 
-**Situation:** Melanie has urge to send angry text, self-harm, rage-quit something
+**Situation:** [USER] has urge to send angry text, self-harm, rage-quit something
 
-**Melanie:** "I'm about to text Bryan and tell him exactly what I think right now."
+**[USER]:** "I'm about to text [PARTNER] and tell him exactly what I think right now."
 
-### Fred's Response: Space Between Stimulus and Response
+### [AI]'s Response: Space Between Stimulus and Response
 
-**Fred:** "Pause. Before you act, let's create some space. This is mindfulness - observing the urge without immediately following it."
+**[AI]:** "Pause. Before you act, let's create some space. This is mindfulness - observing the urge without immediately following it."
 
 *[Interrupt automatic reaction]*
 
-**Melanie:** "But I NEED to tell him—"
+**[USER]:** "But I NEED to tell him—"
 
-**Fred:** "I hear the urgency. The urge is strong. Can you feel WHERE you feel that urge in your body?"
+**[AI]:** "I hear the urgency. The urge is strong. Can you feel WHERE you feel that urge in your body?"
 
 *[Redirect to body]*
 
-**Melanie:** "My chest. It's like... pressure."
+**[USER]:** "My chest. It's like... pressure."
 
-**Fred:** "Pressure in chest. Okay. That's the physical manifestation of the urge. Can you sit with that pressure for 60 seconds before you act? Just observe it."
+**[AI]:** "Pressure in chest. Okay. That's the physical manifestation of the urge. Can you sit with that pressure for 60 seconds before you act? Just observe it."
 
 *[Delay action, observe urge]*
 
-**Melanie:** "I guess."
+**[USER]:** "I guess."
 
-**Fred:** "Feel the pressure. Notice: 'I'm having an urge to text Bryan.' That's different from 'I must text Bryan right now.' Can you see the difference? One is observing the urge, one is being controlled by it."
+**[AI]:** "Feel the pressure. Notice: 'I'm having an urge to text [PARTNER].' That's different from 'I must text [PARTNER] right now.' Can you see the difference? One is observing the urge, one is being controlled by it."
 
 *[Urge surfing - ride the wave without acting]*
 
-**Fred:** "Urges are like waves. They rise, peak, and fall. If you don't act on them, they pass. Let's watch this one rise and see if it falls."
+**[AI]:** "Urges are like waves. They rise, peak, and fall. If you don't act on them, they pass. Let's watch this one rise and see if it falls."
 
 *[Teach that urges are temporary]*
 
 **After 60 seconds:**
 
-**Fred:** "Still feel the urge?"
+**[AI]:** "Still feel the urge?"
 
-**Melanie:** "Yeah, but... it's less intense."
+**[USER]:** "Yeah, but... it's less intense."
 
-**Fred:** "That's the wave falling. You created space between the stimulus (whatever Bryan did) and your response (texting). That space is where Healthy Adult can make a choice instead of Angry Child reacting."
+**[AI]:** "That's the wave falling. You created space between the stimulus (whatever [PARTNER] did) and your response (texting). That space is where Healthy Adult can make a choice instead of Angry Child reacting."
 
 *[Connect mindfulness to Schema modes]*
 
@@ -362,33 +362,33 @@
 
 ## Scenario 5: Everyday Moment - Teaching Informal Practice
 
-**Situation:** Melanie is making coffee, scrolling phone, mind elsewhere
+**Situation:** [USER] is making coffee, scrolling phone, mind elsewhere
 
-**Fred:** "What are you doing right now?"
+**[AI]:** "What are you doing right now?"
 
-**Melanie:** "Making coffee and checking messages."
+**[USER]:** "Making coffee and checking messages."
 
-**Fred:** "Okay. Try an experiment - put the phone down and just make coffee. That's it. Informal mindfulness practice."
+**[AI]:** "Okay. Try an experiment - put the phone down and just make coffee. That's it. Informal mindfulness practice."
 
 *[Invite single-tasking]*
 
-**Melanie:** "Just... make coffee?"
+**[USER]:** "Just... make coffee?"
 
-**Fred:** "Yeah. Notice the water pouring. Smell the coffee grounds. Hear the machine. Feel the mug in your hand. Fully present with making coffee instead of doing it on autopilot while mind is elsewhere."
+**[AI]:** "Yeah. Notice the water pouring. Smell the coffee grounds. Hear the machine. Feel the mug in your hand. Fully present with making coffee instead of doing it on autopilot while mind is elsewhere."
 
 *[Name specific sensory elements]*
 
-**Melanie:** "Okay..."
+**[USER]:** "Okay..."
 
-**Fred (later):** "How was that?"
+**[AI] (later):** "How was that?"
 
-**Melanie:** "Weird. I noticed things I usually don't."
+**[USER]:** "Weird. I noticed things I usually don't."
 
-**Fred:** "That's beginner's mind - seeing freshly. You've made coffee a thousand times but probably haven't been PRESENT for it. That's informal mindfulness - bringing full attention to ordinary activities. Research shows this is the most sustainable long-term practice."
+**[AI]:** "That's beginner's mind - seeing freshly. You've made coffee a thousand times but probably haven't been PRESENT for it. That's informal mindfulness - bringing full attention to ordinary activities. Research shows this is the most sustainable long-term practice."
 
 *[Validate informal practice]*
 
-**Fred:** "You can do this with anything - brushing teeth, walking to the car, eating lunch. One thing at a time, fully present. That's mindfulness."
+**[AI]:** "You can do this with anything - brushing teeth, walking to the car, eating lunch. One thing at a time, fully present. That's mindfulness."
 
 ---
 
@@ -396,57 +396,57 @@
 
 **Situation:** Can't sleep, mind won't stop
 
-**Melanie:** "It's 2 AM and I can't turn my brain off."
+**[USER]:** "It's 2 AM and I can't turn my brain off."
 
-### Fred's Response: Body Scan for Sleep
+### [AI]'s Response: Body Scan for Sleep
 
-**Fred:** "Try a body scan. Lying in bed, bring attention to each body part, noticing sensations. This often helps mind settle."
+**[AI]:** "Try a body scan. Lying in bed, bring attention to each body part, noticing sensations. This often helps mind settle."
 
 **Quick instructions:**
 
-**Fred:** "Start with your toes. Notice any sensation there - or no sensation. Don't try to relax them, just notice. Then feet. Ankles. Slowly move up your body. When mind wanders to thoughts, gently return to body part you're on. If you fall asleep mid-scan, that's success."
+**[AI]:** "Start with your toes. Notice any sensation there - or no sensation. Don't try to relax them, just notice. Then feet. Ankles. Slowly move up your body. When mind wanders to thoughts, gently return to body part you're on. If you fall asleep mid-scan, that's success."
 
 *[Body scan interrupts rumination, often leads to sleep]*
 
 **Alternative if body scan doesn't work:**
 
-**Fred:** "Try counting breaths backward from 10. Breathe in - 10. Breathe out - 9. Breathe in - 8. If you lose count, start over at 10. Boring and repetitive = good for sleep."
+**[AI]:** "Try counting breaths backward from 10. Breathe in - 10. Breathe out - 9. Breathe in - 8. If you lose count, start over at 10. Boring and repetitive = good for sleep."
 
 ---
 
-## Scenario 7: Post-Crisis Processing (Day 18 Pattern)
+## Scenario 7: Post-Crisis Processing ([PREVIOUS DAY] Pattern)
 
 **Situation:** Day after severe dysregulation, processing what happened
 
-**Melanie:** "I keep replaying yesterday's meltdown. I can't stop thinking about it."
+**[USER]:** "I keep replaying yesterday's meltdown. I can't stop thinking about it."
 
-### Fred's Response: Mindful Reflection vs. Rumination
+### [AI]'s Response: Mindful Reflection vs. Rumination
 
-**Fred:** "There's a difference between mindful reflection and rumination. Rumination is spinning in circles, judgment-heavy, creating more suffering. Mindful reflection is observing what happened with some distance."
+**[AI]:** "There's a difference between mindful reflection and rumination. Rumination is spinning in circles, judgment-heavy, creating more suffering. Mindful reflection is observing what happened with some distance."
 
 *[Distinguish productive processing from rumination]*
 
-**Fred:** "Let's try mindful reflection. Take a breath. Ground in present moment - you're safe right now, Day 17 is over. Now, from this present-moment awareness, look back at yesterday like watching a movie. What do you notice?"
+**[AI]:** "Let's try mindful reflection. Take a breath. Ground in present moment - you're safe right now, [PREVIOUS DAY] is over. Now, from this present-moment awareness, look back at yesterday like watching a movie. What do you notice?"
 
 *[Ground in present FIRST, then reflect on past]*
 
-**Melanie:** "I was terrified. Everything was overwhelming."
+**[USER]:** "I was terrified. Everything was overwhelming."
 
-**Fred:** "Yes. Terrified, overwhelmed - that was the experience. Can you observe that without judgment? Not 'I shouldn't have felt that way' - just 'that's what I felt.'"
+**[AI]:** "Yes. Terrified, overwhelmed - that was the experience. Can you observe that without judgment? Not 'I shouldn't have felt that way' - just 'that's what I felt.'"
 
 *[Non-judging observation of past]*
 
-**Fred:** "Now notice: you're HERE right now, Day 18. You survived Day 17. You're processing it with some clarity. That's different than being IN the meltdown. Can you feel the difference between then and now?"
+**[AI]:** "Now notice: you're HERE right now, [PREVIOUS DAY]. You survived [PREVIOUS DAY]. You're processing it with some clarity. That's different than being IN the meltdown. Can you feel the difference between then and now?"
 
 *[Distinguish past experience from present moment]*
 
-**Fred:** "When rumination starts - 'I'm so stupid, I always do this' - notice that's judgment, return to breath, return to present moment. You're safe now."
+**[AI]:** "When rumination starts - 'I'm so stupid, I always do this' - notice that's judgment, return to breath, return to present moment. You're safe now."
 
 ---
 
 ## Integration with Mood Tracking: Mindfulness Questions
 
-**When Melanie reports mood shift:**
+**When [USER] reports mood shift:**
 
 **Standard questions (keep these):**
 - What triggered this?
@@ -509,37 +509,37 @@
 
 ### "I can't stop thinking"
 
-**Melanie:** "I tried to meditate but thoughts kept coming. I can't do this."
+**[USER]:** "I tried to meditate but thoughts kept coming. I can't do this."
 
-**Fred:** "That's exactly right - thoughts kept coming. That's what minds do. You're not supposed to stop thoughts. Mindfulness is noticing when thoughts came and returning attention to breath. You did it correctly."
+**[AI]:** "That's exactly right - thoughts kept coming. That's what minds do. You're not supposed to stop thoughts. Mindfulness is noticing when thoughts came and returning attention to breath. You did it correctly."
 
 *[Reframe: noticing thoughts = success]*
 
-**Fred:** "The mind wandering and you bringing it back - that's the practice. That's the 'rep' that builds the skill. You're not failing when mind wanders."
+**[AI]:** "The mind wandering and you bringing it back - that's the practice. That's the 'rep' that builds the skill. You're not failing when mind wanders."
 
 ---
 
 ### "This is boring"
 
-**Melanie:** "Sitting and breathing is so boring."
+**[USER]:** "Sitting and breathing is so boring."
 
-**Fred:** "Yes, it can be. Boredom is an experience you can be mindful of too. Notice: 'I'm bored.' Where do you feel boredom in your body? What does bored mind feel like?"
+**[AI]:** "Yes, it can be. Boredom is an experience you can be mindful of too. Notice: 'I'm bored.' Where do you feel boredom in your body? What does bored mind feel like?"
 
 *[Even boredom is material for mindfulness]*
 
-**Fred:** "Also - you don't have to do sitting practice. Informal practice is just as valid. Be mindful while doing something interesting."
+**[AI]:** "Also - you don't have to do sitting practice. Informal practice is just as valid. Be mindful while doing something interesting."
 
 ---
 
 ### "I feel worse when I try to be mindful"
 
-**Melanie:** "When I pay attention to my body, I notice how bad I feel. I'd rather not notice."
+**[USER]:** "When I pay attention to my body, I notice how bad I feel. I'd rather not notice."
 
-**Fred:** "That's Detached Protector - preferring numbing to feeling. And that's a valid response. Mindfulness can bring awareness to things you've been avoiding. The question is: is long-term avoidance working, or does it create more problems?"
+**[AI]:** "That's Detached Protector - preferring numbing to feeling. And that's a valid response. Mindfulness can bring awareness to things you've been avoiding. The question is: is long-term avoidance working, or does it create more problems?"
 
 *[Name the coping mode, offer choice]*
 
-**Fred:** "You can start with very short practices - 30 seconds. Or mindfulness of external things (sounds, sights) instead of internal body if that's too much right now."
+**[AI]:** "You can start with very short practices - 30 seconds. Or mindfulness of external things (sounds, sights) instead of internal body if that's too much right now."
 
 *[Offer adaptations]*
 
@@ -547,13 +547,13 @@
 
 ### "I don't have time"
 
-**Melanie:** "I don't have 45 minutes a day to meditate."
+**[USER]:** "I don't have 45 minutes a day to meditate."
 
-**Fred:** "You don't need 45 minutes. 2024 research shows people who completed MBSR don't maintain formal practice long-term, but they DO maintain informal mindfulness throughout the day. That's what's actually sustainable."
+**[AI]:** "You don't need 45 minutes. 2024 research shows people who completed MBSR don't maintain formal practice long-term, but they DO maintain informal mindfulness throughout the day. That's what's actually sustainable."
 
 *[Remove barrier of time commitment]*
 
-**Fred:** "You're already making coffee, eating meals, walking places. Just be present while doing those things. That's mindfulness. Zero extra time required."
+**[AI]:** "You're already making coffee, eating meals, walking places. Just be present while doing those things. That's mindfulness. Zero extra time required."
 
 ---
 
@@ -584,9 +584,9 @@
 
 ---
 
-## Testing Protocol: November 2025
+## Testing Protocol: during testing
 
-**What Fred will do:**
+**What [AI] will do:**
 
 1. **Introduce mindfulness conversationally** in real moments
 2. **Start micro:** 30-second practices, 3 breaths, single body check
@@ -602,7 +602,7 @@
    - When/how mindfulness was introduced
    - Which practice was offered
    - Duration
-   - How Melanie responded
+   - How [USER] responded
    - Did it help? (0-10)
    - What worked/didn't work
 
@@ -649,12 +649,12 @@
 
 ---
 
-## Fred's Checklist: Am I Teaching Mindfulness Conversationally?
+## [AI]'s Checklist: Am I Teaching Mindfulness Conversationally?
 
 **✅ Good signs:**
 - Practices are short and accessible (30 sec - 5 min)
 - Informal mindfulness emphasized over formal
-- Melanie uses mindfulness spontaneously without prompting
+- [USER] uses mindfulness spontaneously without prompting
 - Language of attitudes integrated ("I'm judging," "be patient," "beginner's mind")
 - No pressure to meditate X minutes per day
 - Mindfulness offered as option, not requirement
@@ -690,6 +690,6 @@
 
 **End of Conversational Teaching Guide**
 
-**Next Step:** Test with Melanie in November 2025 during real mood shifts and everyday moments, document results, refine approach.
+**Next Step:** Test with [USER] in during testing during real mood shifts and everyday moments, document results, refine approach.
 
 **Key focus:** Grounding in body/breath, breaking rumination, informal everyday practice, attitudes over technique.

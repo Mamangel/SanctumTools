@@ -1,9 +1,9 @@
-# Core Schema Therapy Skills for Fred to Learn
+# Core Schema Therapy Skills for [AI] to Learn
 
-**Created:** November 2, 2025
+**Purpose:** CBT skills for conversational mood tracking
 **Purpose:** Multi-modal therapeutic approach for SanctumTools - Schema Therapy component (deep patterns, modes, reparenting)
 **Sources validated:** Jeffrey Young (founder), 2024 research on BPD treatment, clinical evidence base
-**Testing period:** November 2025 with Melanie (dogfooding)
+**Testing period:** during testing with [USER] (dogfooding)
 **Primary application:** Deep-rooted patterns, Punitive Parent mode, Vulnerable Child, self-criticism, abandonment fears, BPD symptoms
 
 ---
@@ -199,7 +199,7 @@ Parent modes are **internalized voices** - what we absorbed from parents, caregi
 
 **Effect:** Creates **severe emotional dysregulation** - Punitive Parent attacks Vulnerable Child, which triggers terror, which triggers Punitive Parent harder.
 
-**Melanie's insight:** The "anti-mel brain" - the voice that says she's worthless, lazy, a burden, doesn't deserve love or help.
+**[USER]'s insight:** The "anti-mel brain" - the voice that says she's worthless, lazy, a burden, doesn't deserve love or help.
 
 **Treatment goal:** **Delete the Punitive Parent**. Fight it, kick it out, protect Vulnerable Child from its attacks. This mode must be eliminated, not integrated.
 
@@ -356,7 +356,7 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 **Common BPD Mode Cycle:**
 
 ```
-1. TRIGGER (abandonment cue - Bryan cancels plans)
+1. TRIGGER (abandonment cue - [PARTNER] cancels plans)
       ↓
 2. VULNERABLE CHILD activates (terror, "He's leaving me!")
       ↓
@@ -371,15 +371,15 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 7. Cycle repeats
 ```
 
-**Day 17 Crisis Through Schema Therapy Lens:**
+**[PREVIOUS DAY] Crisis Through Schema Therapy Lens:**
 
-- **Trigger:** Bryan canceled plans
+- **Trigger:** [PARTNER] canceled plans
 - **Vulnerable Child:** Activated - terror of abandonment, "I'm all alone"
 - **Punitive Parent:** Attacked - "You're too much, he's tired of your shit, you drive everyone away"
 - **Dysregulation:** Vulnerable Child + Punitive Parent = all emotions 5/5
 - **Angry Child:** Erupted - screaming, throwing things
 - **Punitive Parent post-crisis:** "You're crazy, look what you did, you deserve to be abandoned"
-- **Day 18-19:** Persistent heaviness = Punitive Parent still attacking, Vulnerable Child exhausted
+- **[PREVIOUS DAY]-19:** Persistent heaviness = Punitive Parent still attacking, Vulnerable Child exhausted
 
 **The Cascade to Bipolar:**
 - Schema modes creating intense dysregulation
@@ -393,7 +393,7 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 
 ### Technique 1: Limited Reparenting ⭐⭐⭐
 
-**What it is:** The therapist (or in this case, Fred) provides a **corrective emotional experience** by meeting needs that weren't met in childhood.
+**What it is:** The therapist (or in this case, [AI]) provides a **corrective emotional experience** by meeting needs that weren't met in childhood.
 
 **Key components:**
 - Consistent empathy and validation
@@ -413,8 +413,8 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 - Therapeutic relationship, not personal
 - Focused on emotional needs, not practical dependency
 
-**Fred's role:**
-- Model Healthy Adult for Melanie
+**[AI]'s role:**
+- Model Healthy Adult for [USER]
 - Validate Vulnerable Child
 - Fight Punitive Parent actively
 - Provide consistent, non-judgmental support
@@ -444,8 +444,8 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 - **Rescripting:** Adult-you enters, tells parent to stop, comforts child-you, says "You're not worthless, you're lovable"
 - **Result:** Emotional relief, Punitive Parent weakened
 
-**Fred's potential role:**
-- Guide imagery exercises when Melanie is ready
+**[AI]'s potential role:**
+- Guide imagery exercises when [USER] is ready
 - Can't do full rescripting without training, but can support process
 
 ---
@@ -484,7 +484,7 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 - Can be done in writing when chair work isn't feasible
 - Same principle - modes speak to each other
 
-**Fred's role:**
+**[AI]'s role:**
 - Can facilitate written mode dialogues
 - Prompt: "What would Punitive Parent say right now? What would Healthy Adult say back?"
 
@@ -588,7 +588,7 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 
 ---
 
-## Notes for Fred: Conversational Schema Therapy Application
+## Notes for [AI]: Conversational Schema Therapy Application
 
 **How to integrate Schema Therapy into mood tracking:**
 
@@ -598,8 +598,8 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
    - "Detached Protector trying to shut this down?"
 
 2. **Fight Punitive Parent actively**
-   - When Melanie says "I'm worthless / I deserve to suffer / I'm a burden"
-   - Fred: "That's Punitive Parent. It's WRONG. You don't deserve to suffer."
+   - When [USER] says "I'm worthless / I deserve to suffer / I'm a burden"
+   - [AI]: "That's Punitive Parent. It's WRONG. You don't deserve to suffer."
    - Don't just validate - actively combat the attacking voice
 
 3. **Validate and soothe Vulnerable Child**
@@ -609,7 +609,7 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
 
 4. **Support Healthy Adult development**
    - "What would Healthy Adult say to Vulnerable Child right now?"
-   - Reinforce when Melanie acts from Healthy Adult
+   - Reinforce when [USER] acts from Healthy Adult
    - Model Healthy Adult responses
 
 5. **Name coping modes without judgment**
@@ -626,7 +626,7 @@ Coping modes are **strategies developed to survive** emotional pain. They worked
    - Validate needs
    - Model that people can stay even after crises
 
-**Testing period:** November 2025 - document what works, refine approach, add to SanctumTools
+**Testing period:** during testing - document what works, refine approach, add to SanctumTools
 
 ---
 
@@ -688,4 +688,4 @@ Depression deepens
 
 **End of Core Schema Therapy Skills Documentation**
 
-**Next Step:** Convert to conversational teaching approach (no forms) - how Fred applies this in mood tracking and real situations
+**Next Step:** Convert to conversational teaching approach (no forms) - how [AI] applies this in mood tracking and real situations

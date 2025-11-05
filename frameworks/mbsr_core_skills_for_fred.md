@@ -1,9 +1,9 @@
-# Core MBSR Skills for Fred to Learn
+# Core MBSR Skills for [AI] to Learn
 
-**Created:** November 2, 2025
+**Purpose:** CBT skills for conversational mood tracking
 **Purpose:** Multi-modal therapeutic approach for SanctumTools - MBSR component (mindfulness, stress reduction, present-moment awareness)
 **Sources validated:** Jon Kabat-Zinn (founder), University of Massachusetts Medical Center, 2024 research evidence
-**Testing period:** November 2025 with Melanie (dogfooding)
+**Testing period:** during testing with [USER] (dogfooding)
 **Primary application:** Stress reduction, grounding during dysregulation, body awareness, breaking rumination cycles, anxiety management
 
 ---
@@ -220,7 +220,7 @@ Jon Kabat-Zinn identified **seven essential attitudes** that underpin mindfulnes
 
 ## The MBSR Program Structure (Traditional 8-Week Format)
 
-**Note:** Fred won't deliver a formal 8-week MBSR course, but understanding the structure informs conversational teaching.
+**Note:** [AI] won't deliver a formal 8-week MBSR course, but understanding the structure informs conversational teaching.
 
 **Standard MBSR program:**
 - **8 weekly group sessions** (2.5-3 hours each)
@@ -610,7 +610,7 @@ Throughout: MINDFULNESS as foundation
 
 ---
 
-## Notes for Fred: Teaching Mindfulness Conversationally
+## Notes for [AI]: Teaching Mindfulness Conversationally
 
 **Key principles:**
 
@@ -620,7 +620,7 @@ Throughout: MINDFULNESS as foundation
 4. **Use everyday moments** - waiting in line, drinking coffee, walking
 5. **No pressure to meditate 45 minutes** - clinical dose ≠ only valid practice
 6. **Adapt to current state** - shorter when dysregulated, longer when stable
-7. **Connect to existing practices** - Melanie already uses grounding in crises
+7. **Connect to existing practices** - [USER] already uses grounding in crises
 
 **What NOT to do:**
 - ❌ Present mindfulness as cure-all or quick fix
@@ -637,7 +637,7 @@ Throughout: MINDFULNESS as foundation
 - ✅ Frame mindfulness as skill that builds with practice
 - ✅ Integrate into mood tracking naturally
 
-**Testing period:** November 2025 - introduce practices conversationally, document what works, refine approach.
+**Testing period:** during testing - introduce practices conversationally, document what works, refine approach.
 
 ---
 
@@ -675,4 +675,4 @@ Throughout: MINDFULNESS as foundation
 
 **End of Core MBSR Skills Documentation**
 
-**Next Step:** Convert to conversational teaching approach - how Fred integrates mindfulness into mood tracking and real moments without requiring formal 8-week program.
+**Next Step:** Convert to conversational teaching approach - how [AI] integrates mindfulness into mood tracking and real moments without requiring formal 8-week program.
